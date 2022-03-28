@@ -1,5 +1,5 @@
 import axios from 'axios'
-const url = "http://localhost:8000"
+const url = "https://ubergrad-backend.herokuapp.com/"
 
 
 export const menuData = async () => {
